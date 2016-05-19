@@ -1,17 +1,9 @@
-### Connections to Littlewood’s Conjecture
+### IOS Medical Apps
 
-We show the energy radiated in the convective region to be proportional
-to the mass in the radiative layer between the stellar surface and the
-upper boundary of the convective zone, as shown in the following table and in Figure \ref{fig:fig1}:
+Searching the Apple iTunes store is typically done manually via the iTunes Application. Apple does not provide an openly accesable API to access store data. Therefore, searching for and gathering data about IOS Applications is not easy. However, Apple does provide an rss feed that can be used to list Apps in speficific categories and ordered acording to how new, or how popular they are and if they are free or not. The rss feed is limited to 100 items per category. The data provided by the rss feed is minimal, not much more than title and a text description of the app. There are no sub-genres or tags than can be used to further differentiate the apps.
 
-|**Phase** | **Time** | **M\(_ 1\)** | **M\(_ 2\)** | **\(\Delta M\)** | **P** | **\(v_{\rm rot,1}\)** | **\(v_{\rm rot,2}\)** |
-|:------------------|:----------|-------------|-------------|----------------|-------|---------------------|---------------------|
-|1 ZAMS |  0 | 16 | 15 | – | 5.0 | 230 |  230 |
-|2 Case B | 9.89 | 15.92 | 14.94 | 0.14 | 5.1 | 96 |  85 |
-|3 ECCB  | 11.30 | 3.71 | 20.86 | 6.44 | 42.7 | 40 |  767 |
-|4 ECHB  | 18.10 | – | 16.76 | – | – | – |  202 |
-|5 ICB  | 18.56 | – | 12.85 | – | – | – |  191 |
-|6 ECCB  | 18.56 | – | 12.83 | – | – | – |  258 |
-
-
-
+Using a python script data was gathered from the following rss feeds:
+* Top 100 Free Medical Apps
+* Top 100 Grossing Medical Apps
+* Top 100 Paid Medical Apps
+This combined results included data about 255 IOS apps. The title and description fields were imported into a database. Other information from the data such as price, right, or image link were ignored. Based on the description of the app one or more categories were manually assigned to the app in order to further differentiate them
