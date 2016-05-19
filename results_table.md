@@ -6,4 +6,5 @@ Using a python script data was gathered from the following rss feeds:
 * Top 100 Free Medical Apps
 * Top 100 Grossing Medical Apps
 * Top 100 Paid Medical Apps
+
 This combined results included data about 255 IOS apps. The title and description fields were imported into a database. Other information from the data such as price, right, or image link were ignored. Based on the description of the app one or more categories were manually assigned to the app in order to further differentiate them
