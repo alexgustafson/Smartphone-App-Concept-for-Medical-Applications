@@ -1,1 +1,1 @@
-LATEX template
+Smartphone App Concept for Medical Applications
