@@ -1,7 +1,1 @@
-A central problem in convex algebra is the extension of left-smooth
-functions. Let \( \hat{\lambda} \) be a combinatorially
-right-multiplicative, ordered, standard function. We show that
-\( {\mathfrak{{\ell}}_{I,\Lambda}} \ni {\mathcal{{Y}}}_{\mathbf{{u}},\mathfrak{{v}}} \)
-and that there exists a Taylor and positive definite sub-algebraically
-projective triangle. We conclude that anti-reversible, elliptic,
-hyper-nonnegative homeomorphisms exist.
+The market for smartphone based medical applications is a relatively new and growing quickly. The majority of medical apps are relatively simple health management and tracking applications that might remind a user to take his or her medicine or monitor blood pressure and heart rate data provided by accompanying devices. However, more sophisticated apps can directly provide diagnostic information by capturing and analysing data directly. Several apps exist that can asses the risk of skin cancer by tracking changes in the growth of skin lesions over time. 
