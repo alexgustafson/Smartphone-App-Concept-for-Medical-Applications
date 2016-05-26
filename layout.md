@@ -2,6 +2,7 @@ abstract.md
 introduction.md
 Market Research.md
 IOS Medical Apps.md
+figures/apple_medical_apps_graph1/apple_medical_apps_graph1.png
 Android_Medical_Apps_In_order__.md
 figures/android_medical_apps_graph/android_medical_apps_graph.png
 Dermatology_Apps_Mobile_apps_are__.md
