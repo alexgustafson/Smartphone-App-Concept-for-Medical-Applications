@@ -3,7 +3,6 @@ introduction.md
 Market Research.md
 IOS Medical Apps.md
 Android_Medical_Apps_In_order__.md
-figures/interactive-figure-1463659514174/figure.html
 Dermatology_Apps_Mobile_apps_are__.md
 figures/m_doi130035t1/m_doi130035t1.png
 Using_the_same_search_criteria__.md
