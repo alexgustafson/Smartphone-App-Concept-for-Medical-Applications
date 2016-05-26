@@ -7,3 +7,4 @@ figures/interactive-figure-1463659514174/figure.html
 Dermatology_Apps_Mobile_apps_are__.md
 figures/m_doi130035t1/m_doi130035t1.png
 Using_the_same_search_criteria__.md
+figures/apple2013vs2016/apple2013vs2016.png
