@@ -7,6 +7,7 @@ Data_Gathering_Gathering_Data_from__.md
 Gathering_App_Data_from_the__.md
 Categorization__.md
 Description_of_Categories_Community_provides__.md
+Results__.md
 IOS Medical Apps.md
 figures/apple_medical_apps_graph1/apple_medical_apps_graph1.png
 Android_Medical_Apps_In_order__.md
