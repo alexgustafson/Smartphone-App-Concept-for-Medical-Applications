@@ -6,6 +6,7 @@ Market Research.md
 Data_Gathering_Gathering_Data_from__.md
 Gathering_App_Data_from_the__.md
 Categorization_The_term_Medical_App__.md
+figures/Screen Shot 2016-07-22 at 00.30.04/Screen Shot 2016-07-22 at 00.30.04.png
 Description_of_Categories_Community_provides__.md
 Results__.md
 IOS Medical Apps.md
