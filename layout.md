@@ -3,7 +3,7 @@ Protocol_Link_https_www_authorea__.md
 introduction.md
 Project_Goals__.md
 Market Research.md
-Data_Gathering_and_Categorizatio_Gathering__.md
+Data_Gathering_Gathering_Data_from__.md
 Gathering_App_Data_from_the__.md
 Categorization__.md
 Description_of_Categories_Community_provides__.md
