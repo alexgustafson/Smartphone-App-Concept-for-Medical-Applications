@@ -11,7 +11,6 @@ figures/Screen Shot 2016-07-22 at 00.28.46/Screen Shot 2016-07-22 at 00.28.46.pn
 Description_of_Categories_Community_provides__.md
 Results__.md
 IOS Medical Apps.md
-figures/apple_medical_apps_graph1/apple_medical_apps_graph1.png
 figures/apple_chart1/apple_chart1.png
 Android_Medical_Apps_In_order__.md
 figures/android_medical_apps_graph/android_medical_apps_graph.png
