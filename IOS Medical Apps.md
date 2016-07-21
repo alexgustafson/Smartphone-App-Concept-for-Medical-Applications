@@ -1,4 +1,4 @@
-### IOS Medical Apps
+## IOS Medical Apps
 
 Searching the Apple iTunes store is typically done manually via the iTunes Application. Apple does not provide an openly accesable API to access store data. Therefore, searching for and gathering data about IOS Applications is not easy. However, Apple does provide an rss feed that can be used to list Apps in speficific categories and ordered acording to how new, or how popular they are and if they are free or not. The rss feed is limited to 100 items per category. The data provided by the rss feed is minimal, not much more than title and a text description of the app. There are no sub-genres or tags than can be used to further differentiate the apps.
 
