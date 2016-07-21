@@ -1,3 +1,3 @@
-### Dermatology Apps
+## Dermatology Apps
 
 Mobile apps are an especially good fit for dermatology-related care. Most dermatological conditions are by nature visible. The initial diagnosis and follow up monitoring is mostly done visually. A mobile device with a camera can aid patients and practitioners in the diagnosis of a dermatological condition and tracking it's development. The article Mobile Applications in Dermatology\cite{Brewer_2013} in 2013 identified 229 dermatology-related apps across 5 app platforms ( Android, Apple, Blackberry, Nokia, and Windows ). These were grouped into categories based on their primary functionality. The "Self-surveillance/diagnosis" category was the second largest on the Android and Apple platforms, with 13 and 24 apps respectively. 
