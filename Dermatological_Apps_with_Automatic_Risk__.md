@@ -1,4 +1,4 @@
-### Dermatological Apps with Automatic Risk Assesment
+## Dermatological Apps with Automatic Risk Assesment
 
 Of the 55 apps identified belonging to the "Self-surveillance/diagnosis" category, only 2 provided risk assesment features based on automatic analysis of captured images. 
 
