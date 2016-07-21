@@ -1,1 +1,1 @@
-Replace this text with your caption
+Django Admin page displaying app details and category selection field
