@@ -3,6 +3,7 @@ Protocol_Link_https_www_authorea__.md
 introduction.md
 Project_Goals__.md
 Market Research.md
+Description_of_Categories_Community_provides__.md
 IOS Medical Apps.md
 figures/apple_medical_apps_graph1/apple_medical_apps_graph1.png
 Android_Medical_Apps_In_order__.md
