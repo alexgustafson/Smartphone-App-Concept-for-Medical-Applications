@@ -24,3 +24,4 @@ DermQuest_Online_teaching_and_learning__.md
 PH2Dataset_Demascopic_Images_Many_of__.md
 Image_Feature_Extraction_Preprocessing_Segmentation__.md
 Machine_Learning__.md
+Implementaion_of_the_Algorithm__.md
