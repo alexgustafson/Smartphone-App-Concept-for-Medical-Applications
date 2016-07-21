@@ -3,7 +3,7 @@ Protocol_Link_https_www_authorea__.md
 introduction.md
 Project_Goals__.md
 Market Research.md
-Data_Gathering_and_Categorization__.md
+Data_Gathering_and_Categorization_Gathering__.md
 Description_of_Categories_Community_provides__.md
 IOS Medical Apps.md
 figures/apple_medical_apps_graph1/apple_medical_apps_graph1.png
