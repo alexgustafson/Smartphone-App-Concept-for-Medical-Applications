@@ -1,1 +1,1 @@
-Replace this text with your caption
+Django Admin page displaying list of iTunes Apps
