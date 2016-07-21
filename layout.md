@@ -5,6 +5,7 @@ Project_Goals__.md
 Market Research.md
 Data_Gathering_and_Categorizatio_Gathering__.md
 Gathering_App_Data_from_the__.md
+Categorization__.md
 Description_of_Categories_Community_provides__.md
 IOS Medical Apps.md
 figures/apple_medical_apps_graph1/apple_medical_apps_graph1.png
