@@ -5,7 +5,7 @@ Project_Goals__.md
 Market Research.md
 Data_Gathering_Gathering_Data_from__.md
 Gathering_App_Data_from_the__.md
-Categorization_A_database_management_tool__.md
+Categorization_The_term_Medical_App__.md
 Description_of_Categories_Community_provides__.md
 Results__.md
 IOS Medical Apps.md
