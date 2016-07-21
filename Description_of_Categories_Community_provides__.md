@@ -1,4 +1,4 @@
-## Description of Categories
+### Description of Categories
 
 * Community - provides some soft of social networking service through which the user can share data with her family or with a network of people suffering from similar disorders. 
 * Fun / Entertainment - These apps have to real medical purpose. They are for enjoyment only. 
