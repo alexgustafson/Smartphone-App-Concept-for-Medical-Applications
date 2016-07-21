@@ -1,4 +1,4 @@
-## Data Gathering and Categorizatio
+## Data Gathering
 
 ### Gathering Data from the Apple iTunes Store
 
