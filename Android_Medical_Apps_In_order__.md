@@ -1,4 +1,4 @@
-### Android Medical Apps
+## Android Medical Apps
 
 In order to gather data from the Goole app store a script was programmed that could extract lists of apps from a specific url. For each app listed the script would extract the url of the app's detail page, where further imformation would be gathered and stored in a database.
 
