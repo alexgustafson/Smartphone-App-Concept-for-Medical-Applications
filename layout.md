@@ -15,3 +15,4 @@ Using_the_same_search_criteria__.md
 figures/apple2013vs1/apple2013vs2016.png
 It_is_important_to_note__.tex
 Dermatological_Apps_with_Automatic_Risk__.md
+Image_Data_Sources__.md
