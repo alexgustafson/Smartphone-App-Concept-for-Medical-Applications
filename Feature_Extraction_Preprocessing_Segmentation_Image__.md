@@ -1,4 +1,4 @@
-# Feature Extraction
+# Image Feature Extraction
 
 ## Preprocessing
 
