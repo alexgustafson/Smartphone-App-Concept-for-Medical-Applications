@@ -37,5 +37,5 @@ Machine_Learning__.md
 Results_of_Algorithm_Performance_Evaluation__1.md
 Implementaion_of_the_Algorithm__.md
 Concept_of_the_Application_Use__.md
-Implementation_of_the_Prototype__.md
+Implementation_of_the_Prototype_Mockup__.md
 Summary__.md
