@@ -25,6 +25,7 @@ Dermofit_High_quality_clinical_images__.md
 DermQuest_Online_teaching_and_learning__.md
 PH2Dataset_Demascopic_Images_Many_of__.md
 Image_Feature_Extraction_What_is__.md
+TDS_Algorithm__.md
 Machine_Learning__.md
 Implementaion_of_the_Algorithm__.md
 Concept_of_the_Application_Use__.md
