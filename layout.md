@@ -32,7 +32,7 @@ Asymmetry_etc__.md
 Two_Examples__.md
 Postitiv_Example__.md
 False_Example_ABCD_Values_were__.md
-Results_of_Algorithm__.md
+Results_of_Algorithm_Performance_Evaluation__.md
 Machine_Learning__.md
 Implementaion_of_the_Algorithm__.md
 Concept_of_the_Application_Use__.md
