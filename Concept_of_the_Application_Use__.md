@@ -3,4 +3,9 @@
 ## Requirements
 ## Prioritisation
 ## Software Architechture
+### Hybrid
+### Native
+### Web Application
+### Nutzwert Analyse
+
 ## Mockup GUI
