@@ -28,6 +28,7 @@ Image_Feature_Extraction_What_is__.md
 TDS_Algorithm__.md
 Description_of_the_Algorithm__.md
 Calculation_of_ABCD_Values__.md
+Asymmetry_etc__.md
 Results_of_Algorithm__.md
 Machine_Learning__.md
 Implementaion_of_the_Algorithm__.md
