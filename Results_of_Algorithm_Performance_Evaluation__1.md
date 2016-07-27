@@ -1,4 +1,4 @@
-### Results of Algorithm
+## Results of Algorithm
 
 Performance Evaluation
 
