@@ -25,7 +25,7 @@ Dermofit_High_quality_clinical_images__.md
 DermQuest_Online_teaching_and_learning__.md
 PH2Dataset_Demascopic_Images_Many_of__.md
 Image_Feature_Extraction_What_is__.md
-TDS_Algorithm__.md
+TDS_Algorithm_reference_https_books__.md
 Description_of_the_Algorithm__.md
 Calculation_of_ABCD_Values_D__.md
 Asymmetry_etc__.md
